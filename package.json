@@ -1,0 +1,28 @@
+{
+  "name": "js-countries",
+  "version": "1.0.0",
+  "description": "A Javascript library made for looking up countries based on string-input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasmusfrederiksen/js-countries.git"
+  },
+  "keywords": [
+    "countries",
+    "country",
+    "iso3",
+    "iso2",
+    "nation",
+    "nations",
+    "javascript"
+  ],
+  "author": "Rasmus Frederiksen",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rasmusfrederiksen/js-countries/issues"
+  },
+  "homepage": "https://github.com/rasmusfrederiksen/js-countries#readme"
+}
