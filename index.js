@@ -101,4 +101,7 @@ const countryLookup = (str, noOfResults = 3) => {
   return results;
 };
 
-module.exports = countryLookup;
+module.exports = {
+  countries,
+  countryLookup
+};
