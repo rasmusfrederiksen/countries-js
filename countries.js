@@ -52,8 +52,8 @@ countries = [
       "Аҧсны Аҳәынҭқарра",
       "Республика Абхазия"
     ],
-    "iso3": null,
-    "iso2": null,
+    "iso3": "",
+    "iso2": "",
     "population": 243206,
     "continent": "AS",
     "cia": null,
