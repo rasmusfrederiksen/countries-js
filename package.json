@@ -1,6 +1,6 @@
 {
   "name": "js-countries",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A Javascript library made for looking up countries based on string-input.",
   "main": "index.js",
   "scripts": {
