@@ -3289,7 +3289,8 @@ countries = [
   },
   {
     "names": [
-      "South Georgia and the South Sandwich Islands"
+      "S. Georgia and S. Sandwich Islands",
+      "South Georgia and South Sandwich Islands"
     ],
     "iso3": "SGS",
     "iso2": "GS",
