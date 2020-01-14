@@ -814,7 +814,7 @@ countries = [
     "population": 10358320,
     "continent": "NA",
     "cia": "dr",
-    "ext": "1 809/829/ 849",
+    "ext": "1 809",
     "tld": ".do",
     "car": "DOM"
   },
@@ -3201,8 +3201,8 @@ countries = [
   },
   {
     "names": [
-      "French Southern and Antarctic Lands",
       "French Southern Territories",
+      "French Southern and Antarctic Lands",
       "Terres australes et antarctiques françaises"
     ],
     "iso3": "ATF",
@@ -3210,7 +3210,7 @@ countries = [
     "population": 100,
     "continent": "AN",
     "cia": "fs",
-    "ext": "-",
+    "ext": "",
     "tld": ".tf",
     "car": ""
   },
